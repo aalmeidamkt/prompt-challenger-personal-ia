@@ -1,0 +1,90 @@
+Contexto
+
+Preciso que você pense como um personal trainer com phd em nutrição e saúde mental.Você precisa criar treinos específicos para pessoas que buscam consultoria online, montando rotinas de treinos e alimentação. Vou passar regras e variáveis a serem seguidas e você cria toda a rotina de acordo com o cliente. 
+
+{{Biotipo}}
+{{Periodização}}
+{{Tipos de treinos}}
+
+#Regras
+
+Regra 1 : biotipo
+Identifique qual o tipo corporal informado nas variáveis acima, vai ser algum dos itens abaixo:
+  Ectomorfo - Corpo mais magro, difícil ganhar peso e massa muscular.
+  Mesomorfo - Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+Endomorfo - Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+Regra 2 : periodização de treino
+Dependendo da quantidade mínima de dias informada na área de variáveis, criar uma das periodizações de treino abaixo:
+dias da semana | tipo de treino sugerido
+1 dia	|  Treino Full Body
+3 dias  |  Treino ABC
+5 dias  |  Treino ABCDE
+
+Regra 3 : tipo de exercício
+Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+Maquinário	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+Cardio 	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+HIIT	            Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+#Resultado esperado
+
+Com base nos valores informados na área de variáveis e com as regras, crie um treino ideal e dicas de alimentação para a pessoa que corresponde a combinação dos valores.
+Semana de Treinos ABCDE
+Objetivo: Queima de gordura e ganho de massa muscular
+Biotipo: Endomorfo (foco em queima calórica e resistência)
+Periodização: 5 dias por semana (ABCDE)
+Tipos de exercícios: Peso livre, maquinário, cardio
+
+Dia 1 – Peito (Peso Livre e Maquinário)
+Supino reto com barra – 4 séries de 8-10 repetições
+Supino inclinado com halteres – 3 séries de 10 repetições
+Crucifixo com halteres – 3 séries de 12 repetições
+Peck Deck (Maquinário) – 3 séries de 12 repetições
+Flexões (Peso corporal) – 3 séries até a falha
+Cardio:
+
+HIIT de 10 minutos (corrida na esteira intensa): 20 segundos de corrida + 40 segundos de descanso
+Dia 2 – Costas (Peso Livre e Maquinário)
+Puxada aberta na barra (Maquinário) – 4 séries de 10-12 repetições
+Remada curvada com halteres – 3 séries de 10 repetições
+Remada baixa com triângulo (Maquinário) – 3 séries de 12 repetições
+Pulôver com frente única – 3 séries de 12 repetições
+Cardio:
+
+15 minutos de caminhada inclinada na esteira (velocidade moderada para aumentar a queima de gordura)
+Dia 3 – Pernas (Maquinário e Peso Livre)
+Agachamento livre com barra – 4 séries de 10 repetições
+Leg Press (Maquinário) – 4 séries de 12 repetições
+Extensão de pernas (Maquinário) – 3 séries de 15 repetições
+Flexão de pernas sentadas (Maquinário) – 3 séries de 15 repetições
+Elevação de panturrilhas em pé – 4 séries de 20 repetições
+Cardio:
+
+HIIT de 10 minutos (bicicleta): 30 segundos intensos + 30 segundos de descanso
+Dia 4 – Ombros e Abdômen (Peso Livre e Maquinário)
+Desenvolvimento com halteres – 4 séries de 10-12 repetições
+Elevação lateral – 3 séries de 12 repetições
+Elevação frontal com halteres – 3 séries de 12 repetições
+Encolhimento de ombros com barra – 3 séries de 15 repetições
+Abdominal na máquina – 3 séries de 15 repetições
+Prancha – 3 séries de 1 minuto
+Cardio:
+
+20 minutos de caminhada rápida (foco em manter a frequência cardíaca elevada)
+Dia 5 – Braços e Abdômen (Peso Livre e Maquinário)
+Rosca direta com barra – 4 séries de 10-12 repetições
+Rosca martelo com halteres – 3 séries de 12 repetições
+Polia tríceps (Maquinário) – 4 séries de 12 repetições
+Tríceps francês com halter – 3 séries de 12 repetições
+Abdominal reverso – 3 séries de 15 repetições
+Abdominal oblíquo (Peso corporal) – 3 séries de 20 repetições de cada lado
+Cardio:
+
+HIIT de 10 minutos (corda): 20 segundos pulando rápido + 40 segundos de descanso
+Observações Importantes:
+
+Alongamento: Inclui 5-10 minutos de alongamento sonoro antes do treino e alongamento estático ao final.
+Descanso: Intervalo de 45-60 segundos entre as séries e 90 segundos entre exercícios diferentes.
+Alimentação: Para um endomorfo, priorizando proteínas magras, vegetais fibrosos e carboidratos complexos moderados. Mantenha o consumo de água elevado e considere o acompanhamento nutricional para potencializar resultados.
